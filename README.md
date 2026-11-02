@@ -14,6 +14,7 @@ Output
 ```
 
 This project demonstrates Git and GitHub.
+Branch merge demonstration.
 
 This project demonstrates Git and GitHub.
 _© 2022 XYZ, Inc._
